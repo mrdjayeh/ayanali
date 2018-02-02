@@ -452,6 +452,18 @@ $bot->home();
 $bot->bwh();}}
 }
 ?>
-<audio autoplay loop>
-      <source src="http://songolum.com/files/4QiWVeaoH.mp3">
-</audio>
+<SCRIPT LANGUAGE="JavaScript">
+var message="Beta Host Chori Karyga Kya Papa Ki ??  ";
+///////////////////////////////////
+function clickIE() {if (document.all) {alert(message);return false;}}
+function clickNS(e) {if 
+(document.layers||(document.getElementById&&!document.all)) {
+if (e.which==2||e.which==3) {alert(message);return false;}}}
+if (document.layers) 
+{document.captureEvents(Event.MOUSEDOWN);document.onmousedown=clickNS;}
+else{document.onmouseup=clickNS;document.oncontextmenu=clickIE;}
+
+document.oncontextmenu=new Function("return false")
+// --> 
+</script>
+
