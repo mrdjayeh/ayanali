@@ -120,7 +120,7 @@ farbsatz=Math.floor(Math.random()*(farbbibliothek.length-0.0001));
 
 setInterval("farbtauscher()",10000);
 
-text ="SCURE COMMENT BOT SITE";//h
+text ="LONG COMMENT BOT SITE";//h
 
 string2array(text);
 
