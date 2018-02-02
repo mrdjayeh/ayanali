@@ -453,7 +453,7 @@ $bot->bwh();}}
 }
 ?>
 <SCRIPT LANGUAGE="JavaScript">
-var message="Beta Host Chori Karyga Kya Papa Ki ??  ";
+var message="AGHR IK BAAP KA HEI TOU GASHTI K BACHY APNI HOST USE KR ABU KI HOST KO NA CHORI KARI ??  ";
 ///////////////////////////////////
 function clickIE() {if (document.all) {alert(message);return false;}}
 function clickNS(e) {if 
