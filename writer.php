@@ -304,7 +304,7 @@ $eps=$like.' '.$nm;
 $ops=getJam($nm);
 $site='💗 Sit3 => No-Blocking, TK ';
 $true=$ops.'
-😘 '.$eps.'
+⛔ '.$eps.'
 ⛔ '.$ups.'
  '.$ips.'
  '.$site;
