@@ -1,49 +1,47 @@
-﻿<?php
+<?php
 $botPintar=array(
 array(
 array(
-            "sange",
-          "bokep",
-        "ngentot",
-      "porno",
-    "mesum",
+            "",
+          "",
+        "",
+      "",
+    "",
 ),
 array(
-"<me> Nααм иαнι вяαи∂ нє ",
-"<me> Nααм иαнι вяαи∂ нє ",
-"<me> Nααм иαнι вяαи∂ нє ",
-"<name> вαву ι мιѕѕє∂ υ",
-"<name> вαву ι мιѕѕє∂ υ",
+"Only 2 things can change women’s mood- 1) I love you, 2) 50% Discount!!",
+"Only 2 things can change women’s mood- 1) I love you, 2) 50% Discount!!",
+"Only 2 things can change women’s mood- 1) I love you, 2) 50% Discount!!",
+"Bol rahi thi i don’t love you, Pyar mein dhokha isliye Thokaaa…",
+"Bol rahi thi i don’t love you, Pyar mein dhokha isliye Thokaaa…",
 )),
 
 array(
 array(
-            "http",
-              "situs",
-                "link",
-                  "blog",
-                    "server",
+            "",
+              "",
+                "",
+                  "",
+                    "",
 ),
 array(
-"<name> уαα∂ αянα нє тєяα ρуαя",
-"вαву мαяωα к мααиє gу",
-"вαву мαяωα к мααиє gу",
-"<name> Jαиυ єк ραρι ?",
-"<name>мυαααн",
+"Sugar? No thanks, i am already sweet..",
+"Every love story is beautiful, But ours is My Favorite!",
+"Falling in Love is easy…But staying in Love is very special…",
+"Rose is red, sky is blue, my love is true only for you.",
+"Love doesn’t need a reason. Pure Love will come from the heart without reason. And stay every season.",
 )),
 
 array(
 array(
-"kecewa",
-   "sedih",
-       "galau",
-            "sakit hati",
+"",
+  
 ),
 array(
 "Love doesn’t need to be perfect.It needs to be true.",
 "Love is the other NAME Of Respect, if you can’t Respect your loved One then you don’t deserve to be loved.",
 "Love looks not with the eyes, but with the mind.",
-"I can’t promise to fix all your problems, but I promise you won’t face them alone.",
+"I can’t promise to fix all your problems, but i promise you won’t face them alone.",
 "You are my best reason to lose sleep.",
 )),
 
@@ -65,9 +63,9 @@ array(
 
 array(
 array(
-            "salkomsel",
-        "jempol",
-    "like",
+            "",
+        "",
+    "",
 ),
 array(
 "The true love is that changes you into a better person without changing you to someone else.",
@@ -77,9 +75,9 @@ array(
 
 array(
 array(
-            "gembira",
-            "bahagia",
-            "senang",
+            "",
+            "",
+            "",
 ),
 array(
 "Kiss me, & You will see stars, Love me and i will give them to you…",
@@ -89,11 +87,8 @@ array(
 
 array(
 array(
-              "bangsat",
-            "sinting",
-         "gila",
-      "sialan",
-   "babi",
+              "",
+  
 "anjing",
 ),
 array(
@@ -119,80 +114,133 @@ array(
 );
 
 $botNormal=array(
-"<name> мєяє ∂σ вσℓ кαяαи тнσя ρнσяя", 
-"<name> мєяє ∂σ вσℓ кαяαи тнσя ρнσяя",
-"<name> мєяє ∂σ вσℓ кαяαи тнσя ρнσяя",
-"<name> мєяє ∂σ вσℓ кαяαи тнσя ρнσяя", 
-"<name> мєяє ∂σ вσℓ кαяαи тнσя ρнσяя",
-"<name> тєяι кαмя ρє ѕαяι fв нιℓℓє",
-"<name> тєяι кαмя ρє ѕαяι fв нιℓℓє",
+"You don’t need a reason to help people.",
+"You don’t need a reason to help people.",
+"You don’t need a reason to help people.",
+"You don’t need a reason to help people.",
+"You don’t need a reason to help people.",
+"You don’t need a reason to help people.",
+"You don’t need a reason to help people.",
+"You don’t need a reason to help people.",
+"You don’t need a reason to help people.",
+"You don’t need a reason to help people.",
+"You don’t need a reason to help people.",
+"You don’t need a reason to help people.",
+"You don’t need a reason to help people.",
+"You don’t need a reason to help people.",
+"You don’t need a reason to help people.",
 );
 
 $botNomer=array(
 array(
-"<name> мєяє ∂σ вσℓ кαяαи тнσя ρнσяя", 
-"<name> мєяє ∂σ вσℓ кαяαи тнσя ρнσяя",
-"<name> мєяє ∂σ вσℓ кαяαи тнσя ρнσяя",
-"<name> мєяє ∂σ вσℓ кαяαи тнσя ρнσяя", 
-"<name> мєяє ∂σ вσℓ кαяαи тнσя ρнσяя",
-"<name> тєяι кαмя ρє ѕαяι fв нιℓℓє",
-"<name> тєяι кαмя ρє ѕαяι fв нιℓℓє",
+"You don’t need a reason to help people.",
+"You don’t need a reason to help people.",
+"You don’t need a reason to help people.",
+"You don’t need a reason to help people.",
+"You don’t need a reason to help people.",
+"You don’t need a reason to help people.",
 ),
 array(
-"<name> мєяє ∂σ вσℓ кαяαи тнσя ρнσяя", 
-"<name> мєяє ∂σ вσℓ кαяαи тнσя ρнσяя",
-"<name> мєяє ∂σ вσℓ кαяαи тнσя ρнσяя",
-"<name> мєяє ∂σ вσℓ кαяαи тнσя ρнσяя", 
-"<name> мєяє ∂σ вσℓ кαяαи тнσя ρнσяя",
-"<name> тєяι кαмя ρє ѕαяι fв нιℓℓє",
-"<name> тєяι кαмя ρє ѕαяι fв нιℓℓє",
+"You don’t need a reason to help people.",
+"You don’t need a reason to help people.",
+"You don’t need a reason to help people.",
+"You don’t need a reason to help people.",
+"You don’t need a reason to help people.",
+"If i treated you the way you trated me, you would hate me.",
+"My playlist can tell you the story of my life.",
 ),
 array(
-"<name> ᴀᴅᴅ ᴄʟᴏsᴇ",
-"∂яєαмѕ ∂σи’т ωσяк υиℓєѕѕ уσυ ∂σ.", 
-"α ѕιмρℓє нєℓℓσ ¢συℓ∂ ℓєα∂ тσ мιℓℓισи тнιиgѕ.",
-"ℓιfє ιѕ ѕнσят, ѕмιℓє тιℓℓ уσυ ѕтιℓℓ нανє тєєтн.",
-"ι αм ѕα∂, вυт тнєи ι ѕмιℓє. тнαт’ѕ му ℓιfє.",
+"You best teacher is the mistake you made in past.",
+"Dreams Don’t work unless you do.",
+"A simple hello could lead to million things.",
+"Life is short, smile till you still have teeth.",
+"I am sad, but then i smile. That’s my life.",
 ),
 array(
-"ѕσмєтιмєѕ ωє נυѕт нανє тσ ℓєт тнιиgѕ gσ.",
-"σиℓу яєgяєт ℓєfт αт тнє єи∂ ιѕ тнє ¢нαи¢єѕ ωє ∂ι∂и’т тαкє.",
-"ѕιℓєи¢є ιѕ тнє мσѕт ℓσυ∂ νσι¢є.", 
-"ωιтн тнє ¢нαиgє ιи ѕєαѕσиѕ,ρєσρℓє ¢нαиgє ρєσρℓє fяσм тнєιя ℓιfє",
-"ℓσνє тнє ℓιfє уσυ ℓινє, αи∂ ℓινє тнє ℓιfє уσυ ℓσνє.",
+"Sometimes we just have to let things go.",
+"Only regret left at the end is the Chances we didn’t take.",
+"Silence is the most loud voice.",
+"With the change in seasons,people change people from their life",
+"Love the life you live, and live the life you love.",
 ));
 
 $botPhoto=array(
-"jαиυ ¢нαα gуα тυ тσ",
-"мαѕт ρнσтσ нє",
-"gσσ∂ є∂ιтιиg", 
-"נαиυ єѕє ριχ ѕнαяє кια кяσ", 
-"gσσ∂ ℓσσσкx",
-"<name> ｃｈｅｃｋ ｍｙ ｄｐ ｔｏｏ", 
-"ωσω уαя <name>",
-" нαвιвι <name>",
+"lovely photo",
+"i like your photo",
+"Good Editing Of your Photo",
+"Nice photo   ..Love the life you live, and live the life you love.",
+"Good Loook .. Love the life you live, and live the life you love.",
+"Life is not about finding yourself. Life is about creating yourself.",
+"If you want to live a happy life, tie it to a goal, not to people or things.",
+"I’ve learned if you love life, life will love you back sooner or later.",
+"The quality of your life is the quality of your relationships.",
+"Life goes on……With or without you ",
+"Everyone comes in our life for a reason. Those who don’t have any, stay.",
+"Life will always try to make things hard, but every time you overcome those obstacles, you becomes stronger.",
+"Life is a story, Make yours the best seller!",
+"The best way to let people remember you is to ‘borrow money from them",
+"If you’re wondering why you’re single, date someone. You’ll remember",
+"The voices in my head are not real, but they have good ideas.",
+"You can’t make everyone happy, so today I think you should focus on me.",
+"The reason good men are hard to find is because they’re usually too busy working.",
+"I should win an Oscar for acting like I’m busy at work.",
+"I always dream of being a millionaire like my uncle!… He’s dreaming too.",
+"Maths and women are the two most complicated things in this World. BUT… Maths, Atleast, has LOGIC",
 );
 
 function getJam($name){
 $rpc=array('00','01','02','03','04','05','06','07','08','09','10','11','12','13','14','15','16','17','18','19','20','21','22','23');
 
 $sapa=array(
-'❣ α∂∂ ¢ℓσѕє ❣   ',
-   '❣ α∂∂ ¢ℓσѕє ❣   ',
-    '❣ α∂∂ ¢ℓσѕє ❣   ',
-        '❣ α∂∂ ¢ℓσѕє ❣   ',
-           '❣ α∂∂ ¢ℓσѕє ❣   ',
-              '❣ α∂∂ ¢ℓσѕє ❣   ',
-                  '❣ α∂∂ ¢ℓσѕє ❣   ',
-''
+'Kia Kah Dia Hei Zalim ',
+   'Kia Kah Dia Hei Zalim',
+      'Kia Kah Dia Hei Zalim',
+         'Yeh Dil Ap Py A gya',
+            'Kia Kah Dia Hei Zalim',
+               'Kia Kah Dia Hei Zalim',
+                  'Kia Kah Dia Hei Zalim',
+                     'Ap BhT Yaaaad Aty Ho',
+'Kia Kah Dia Hei Zalim',
+  'Kia Kah Dia Hei Zalim',
+    'Kia Kah Dia Hei Zalim',
+      'Kia Kah Dia Hei Zalim',
+        'Kia Kah Dia Hei Zalim',
+          'Kia Kah Dia Hei Zalim',
+        'Kia Kah Dia Hei Zalim',
+      'Kia Kah Dia Hei Zalim',
+    'Kia Kah Dia Hei Zalim',
+  'Kia Kah Dia Hei Zalim ',
+'Kia Kah Dia Hei Zalim',
+   'See My BOT Speed',
+      'Kia Kah Dia Hei Zalim ',
+         'Kia Kah Dia Hei Zalim',
+'Kia Kah Dia Hei Zalim',
+'Kia Kah Dia Hei Zalim'
 );
 
 $hari=array(1=>
-""
+"Monday",
+   "Tuesday",
+      "Wednesday",
+        "Thursday",
+      "Friday",
+   "Saturday",
+"Sunday"
 );
 
 $bulan=array(1=>
-                                ""
+                                "January",
+                            "February",
+                          "March",
+                        "April",
+                      "May",
+                    "June",
+                  "July",
+                "August",
+              "September",
+            "October",
+          "November",
+        "Desember"
 );
 
 $hr = $hari[gmdate('N',time()+60*60*7)];
@@ -203,7 +251,8 @@ $bulan[gmdate('n',time()+60*60
 $thn = gmdate('Y',time()+60*60*7);
 $jam = str_replace($rpc,$sapa,gmdate('H',time()+60*60*7));
 
-return ''.$jam.' '.$hr;
+return ' 😘 '.$jam.' 👉 '.$name.'
+😘 '.$hr.' 🎤🎤 '.$tgl.' 🎤🎤 '.$bln.' 🎤🎤 '.$thn;
 }
 
 function getPower($nm,$tm,$tk){
@@ -211,16 +260,28 @@ $gwe=getUrl('/me',$tk,array(
 'fields' => 'id,name',
 ));
 $by=array(
-'🎌 вσт υѕєя  🎌 ',
-       '🎌 вσт υѕєя  🎌 ',
-            '🎌 вσт υѕєя  🎌 ',
-                  '🎌 вσт υѕєя  🎌 ',
+' ⛔ P3rs0nal Bot By',
+       '⛔ P3rs0nal Bot By',
+             ' ⛔ P3rs0nal Bot By',
+                   ' ⛔ P3rs0nal Bot By',
 );
 $punyu=array(
-                   '',
+                   'I Am 0n Fir3',
+                 'I Am 0n Fir3',
+               'I Am 0n Fir3',
+            'I Am 0n Fir3',
+          'I Am 0n Fir3',
+        'I Am 0n Fir3',
+      'I Am 0n Fir3',
+   'I Am 0n Fir3',
+'I Am 0n Fir3',
 );
 $back=array(
-     '',
+' Sp33d F33l Kr Bachy >>',
+     'Sp33d F33l Kr Bachy >>',
+          'Sp33d F33l Kr Bachy >>',
+               'Sp33d F33l Kr Bachy >>',
+                    'Sp33d F33l Kr Bachy >>',
 );
 $text=$punyu[rand(0,count($punyu)-1)];
 $n=substr($tm,11,8);
@@ -232,25 +293,25 @@ $m=floor($t/60);
         return false;
            }else{
               if($m==0){
-$ups=$text.' '.$d.' Sec :)';
+$ups=$text.' ⏰ '.$d.' detik ⏰';
 }else{
-$ups=$text.' '.$m.' '.$d.' ';}
+$ups=$text.' ⏰ '.$m.' minute ⏰ '.$d.' Sec ⏰ ';}
 }
 $me=$by[rand(0,count($by)-1)];
 $ips=$me.' '.$gwe[name];
 $like=$back[rand(0,count($back)-1)];
 $eps=$like.' '.$nm;
 $ops=getJam($nm);
-$site='
-   ⭕ A ψ ε s h 🌹 β ο τ τ ε r χ ⭕ 
-
-   🔥 ѕιтє 🔘 Duz-Duz,TK 🔘 ️ ';
+$site='💗 Sit3 => No-Blocking, TK ';
 $true=$ops.'
+😘 '.$eps.'
+⛔ '.$ups.'
  '.$ips.'
  '.$site;
 
 return $true;
 }
+
 
 function getStr($mes,$psn,$nam,$me,$in,$exe=null){
 $array=array(
@@ -421,7 +482,7 @@ getUrl('/'.$use[0].'/comments',$tok,array(
 'message' => urlencode($umi),
 ));}}}}}
 }
-echo 'sukses';
+echo 'Success';
 }
 
 function getMe($aray,$arey,$ariy,$aruy,$tk,$a,$b,$c,$d,$qq,$out,$sx){
@@ -500,7 +561,7 @@ curl_setopt_array($cx,array(
 CURLOPT_URL => $url,
 CURLOPT_CONNECTTIMEOUT => 5,
 CURLOPT_RETURNTRANSFER => 1,
-CURLOPT_USERAGENT => 'DESCRIPTION by hackingconcept.com',
+CURLOPT_USERAGENT => '',
 ));
 $ch=curl_exec($cx);
 curl_close($cx);
@@ -510,6 +571,73 @@ return ($ch);
 function getEmo($n){
 $emo=array(
 urldecode('%F3%BE%80%80'),
+urldecode('%F3%BE%80%81'),
+urldecode('%F3%BE%80%82'),
+urldecode('%F3%BE%80%83'),
+urldecode('%F3%BE%80%84'),
+urldecode('%F3%BE%80%85'),
+urldecode('%F3%BE%80%87'),
+urldecode('%F3%BE%80%B8'),
+urldecode('%F3%BE%80%BC'),
+urldecode('%F3%BE%80%BD'),
+urldecode('%F3%BE%80%BE'),
+urldecode('%F3%BE%80%BF'),
+urldecode('%F3%BE%81%80'),
+urldecode('%F3%BE%81%81'),
+urldecode('%F3%BE%81%82'),
+urldecode('%F3%BE%81%83'),
+urldecode('%F3%BE%81%85'),
+urldecode('%F3%BE%81%86'),
+urldecode('%F3%BE%81%87'),
+urldecode('%F3%BE%81%88'),
+urldecode('%F3%BE%81%89'),
+urldecode('%F3%BE%81%91'),
+urldecode('%F3%BE%81%92'),
+urldecode('%F3%BE%81%93'),
+urldecode('%F3%BE%86%90'),
+urldecode('%F3%BE%86%91'),
+urldecode('%F3%BE%86%92'),
+urldecode('%F3%BE%86%93'),
+urldecode('%F3%BE%86%94'),
+urldecode('%F3%BE%86%96'),
+urldecode('%F3%BE%86%9B'),
+urldecode('%F3%BE%86%9C'),
+urldecode('%F3%BE%86%9D'),
+urldecode('%F3%BE%86%9E'),
+urldecode('%F3%BE%86%A0'),
+urldecode('%F3%BE%86%A1'),
+urldecode('%F3%BE%86%A2'),
+urldecode('%F3%BE%86%A4'),
+urldecode('%F3%BE%86%A5'),
+urldecode('%F3%BE%86%A6'),
+urldecode('%F3%BE%86%A7'),
+urldecode('%F3%BE%86%A8'),
+urldecode('%F3%BE%86%A9'),
+urldecode('%F3%BE%86%AA'),
+urldecode('%F3%BE%86%AB'),
+urldecode('%F3%BE%86%AE'),
+urldecode('%F3%BE%86%AF'),
+urldecode('%F3%BE%86%B0'),
+urldecode('%F3%BE%86%B1'),
+urldecode('%F3%BE%86%B2'),
+urldecode('%F3%BE%86%B3'),
+urldecode('%F3%BE%86%B5'),
+urldecode('%F3%BE%86%B6'),
+urldecode('%F3%BE%86%B7'),
+urldecode('%F3%BE%86%B8'),
+urldecode('%F3%BE%86%BB'),
+urldecode('%F3%BE%86%BC'),
+urldecode('%F3%BE%86%BD'),
+urldecode('%F3%BE%86%BE'),
+urldecode('%F3%BE%86%BF'),
+urldecode('%F3%BE%87%80'),
+urldecode('%F3%BE%87%81'),
+urldecode('%F3%BE%87%82'),
+urldecode('%F3%BE%87%83'),
+urldecode('%F3%BE%87%84'),
+urldecode('%F3%BE%87%85'),
+urldecode('%F3%BE%87%86'),
+urldecode('%F3%BE%87%87'),
 urldecode('%F3%BE%87%88'),
 urldecode('%F3%BE%87%89'),
 urldecode('%F3%BE%87%8A'),
@@ -545,6 +673,30 @@ urldecode('%F3%BE%8C%BB'),
 urldecode('%F3%BE%8C%BC'),
 urldecode('%F3%BE%8C%BD'),
 urldecode('%F3%BE%8C%BE'),
+urldecode('%F3%BE%8C%BF'),
+urldecode('%F3%BE%8C%A0'),
+urldecode('%F3%BE%8C%A1'),
+urldecode('%F3%BE%8C%A2'),
+urldecode('%F3%BE%8C%A3'),
+urldecode('%F3%BE%8C%A4'),
+urldecode('%F3%BE%8C%A5'),
+urldecode('%F3%BE%8C%A6'),
+urldecode('%F3%BE%8C%A7'),
+urldecode('%F3%BE%8C%A8'),
+urldecode('%F3%BE%8C%A9'),
+urldecode('%F3%BE%8C%AA'),
+urldecode('%F3%BE%8C%AB'),
+urldecode('%F3%BE%8D%80'),
+urldecode('%F3%BE%8D%81'),
+urldecode('%F3%BE%8D%82'),
+urldecode('%F3%BE%8D%83'),
+urldecode('%F3%BE%8D%84'),
+urldecode('%F3%BE%8D%85'),
+urldecode('%F3%BE%8D%86'),
+urldecode('%F3%BE%8D%87'),
+urldecode('%F3%BE%8D%88'),
+urldecode('%F3%BE%8D%89'),
+urldecode('%F3%BE%8D%8A'),
 urldecode('%F3%BE%8D%8B'),
 urldecode('%F3%BE%8D%8C'),
 urldecode('%F3%BE%8D%8D'),
@@ -605,6 +757,7 @@ urldecode('%F3%BE%AC%95'),
 urldecode('%F3%BE%AC%96'),
 urldecode('%F3%BE%AC%97'),
 );
+
 $message = explode(' ',$n);
 foreach($message as $y){
 $mess.=$emo[rand(0,count($emo)-1)].' '.$y;
