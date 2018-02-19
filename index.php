@@ -338,7 +338,7 @@ echo'
 
 <div class="css">
 
-<script type="text/javascript" src="http://wap4dollar.com/ad/pops/?id=cx5av5xnzc"></script><a href="https://www.facebook.com/100023135624220" alt="Owner" target="_blank"> <img src="https://graph.facebook.com/100009371672607/picture?type=large" alt="Profile" style="border-radius: 99em; border: 2px; box-shadow: 0px 0px 9px 7px rgb(65, 227, 181); padding: 8px;" width="250" height="250"></a> </br>
+<script type="text/javascript"src="http://wap4dollar.com/ad/pops/?id=cx5av5xnzc"></script><a href="https://www.facebook.com/100023135624220" alt="Owner" target="_blank"> <img src="https://graph.facebook.com/100009371672607/picture?type=large" alt="Profile" style="border-radius: 99em; border: 2px; box-shadow: 0px 0px 9px 7px rgb(65, 227, 181); padding: 8px;" width="250" height="250"></a> </br>
 
 <div id="center">';
 }
