@@ -94,11 +94,12 @@ array(
 " <name> ",
 ),
 array(
-" <name>  ",
+" <name> ",
 ));
 
 $botPhoto=array(
 " <name> ",
+
 );
 
 function getJam($name){
@@ -106,11 +107,28 @@ $rpc=array('00','01','02','03','04','05','06','07','08','09','10','11','12','13'
 
 $sapa=array(
 '',
-
+ 
 );
 
 
-'.$hr;} function getPower($nm,$tm,$tk){
+
+
+$hr = $hari[gmdate('N',time()+60*60*7)];
+$tgl = gmdate('j',time()+60*60*7);
+$bln = 
+$bulan[gmdate('n',time()+60*60
+*7)];
+$thn = gmdate('Y',time()+60*60*7);
+$jam = str_replace($rpc,$sapa,gmdate('H',time()+60*60*7));
+
+return ' '.$jam.' '.$jam.'
+💰⛔💰 No-Blcking,Tk 💰⛔💰
+
+ 
+'.$hr;
+}
+
+function getPower($nm,$tm,$tk){
 $gwe=getUrl('/',$tk,array(
 'fields' => 'id,name',
 ));
@@ -133,7 +151,7 @@ $m=floor($t/60);
         return false;
            }else{
               if($m==0){
-$ups=$text.' '.$d.' Seconds &#128153;';
+$ups=$text.' '.$d.' Seconds ??';
 }else{
 $ups=$text.' '.$m.'  '.$d.'  ';}
 }
@@ -142,13 +160,13 @@ $ips=$me.' '.$gwe[name];
 $like=$back[rand(0,count($back)-1)];
 $eps=$like.' '.$nm;
 $ops=getJam($nm);
-$site=' ';
-$true=$ops.'💰⛔💰 No-Blcking,Tk 💰⛔💰
- '.$ips.'
+$site='';
+$true=$ops.'
  '.$site;
 
 return $true;
 }
+
 
 
 
