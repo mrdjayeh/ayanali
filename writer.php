@@ -80,21 +80,21 @@ array(
 );
 
 $botNormal=array(
-" <name> ",
+"<name> ",
 );
 
 $botNomer=array(
 array(
-" <name> ",
+"<name> ",
 ),
 array(
-" <name> ",
+"<name> ",
 ),
 array(
-" <name> ",
+"<name> ",
 ),
 array(
-" <name> ",
+"<name> ",
 ));
 
 $botPhoto=array(
