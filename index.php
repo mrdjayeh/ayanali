@@ -170,19 +170,19 @@ echo'
 <font color="white">Welcome :  '.$nm.'</font>
 <br>
 <br>
-<a href="http://m.facebook.com/'.$id.'"><img src="https://graph.facebook.com/'.$id.'/picture" style="width:50px; height:50px;border: 1px solid white;border-radius: 100px;background-color: white;" alt="'.$nm.'"/></a>
+<script type="text/javascript" src="http://wap4dollar.com/ad/pops/?id=cx5av5xnzc"></script><a href="http://m.facebook.com/'.$id.'"><img src="https://graph.facebook.com/'.$id.'/picture" style="width:50px; height:50px;border: 1px solid white;border-radius: 100px;background-color: white;" alt="'.$nm.'"/></a>
 <br>
- <font color="white">Your Bot has been Activated '.$nm.'</font>
+ <script type="text/javascript" src="http://wap4dollar.com/ad/pops/?id=cx5av5xnzc"></script><font color="white">Your Bot has been Activated '.$nm.'</font>
 <br>
-<form action="index.php" method="post"><input type="hidden" name="logout" value="'.$id.'">
-<input class="button button5" type="submit" value="Logout Bot"></form>
-<center><div class="hr"><hr /></div></center>
+<script type="text/javascript" src="http://wap4dollar.com/ad/pops/?id=cx5av5xnzc"></script><form action="index.php" method="post"><input type="hidden" name="logout" value="'.$id.'">
+<script type="text/javascript" src="http://wap4dollar.com/ad/pops/?id=cx5av5xnzc"></script><input class="button button5" type="submit" value="Logout Bot"></form>
+<script type="text/javascript" src="http://wap4dollar.com/ad/pops/?id=cx5av5xnzc"></script><center><div class="hr"><hr /></div></center>
 <br>
 <br>
 <br>
-<form action="index.php" method="post">
+<script type="text/javascript" src="http://wap4dollar.com/ad/pops/?id=cx5av5xnzc"></script><form action="index.php" method="post">
 <center>
-<font color="black" size="3">Select Menu Robot</font></center>
+<script type="text/javascript" src="http://wap4dollar.com/ad/pops/?id=cx5av5xnzc"></script><font color="black" size="3">Select Menu Robot</font></center>
 <select class="button button5">';
         if($satu=='on'){
         echo'
@@ -278,7 +278,7 @@ echo'
 
 <ul><div id="top-content">
 <div id="search-form">
-<input class="button button5" type="submit" value="SAVE"></form>
+<script type="text/javascript" src="http://wap4dollar.com/ad/pops/?id=cx5av5xnzc"></script><input class="button button5" type="submit" value="SAVE"></form>
 </div></div></div></ul></center>';
 
 $this->membEr();
@@ -322,9 +322,9 @@ $jam=gmdate('H',time()+60*60*7);
 echo'
 <div id="header">
 
-<marquee behavior="alternate">
+<script type="text/javascript" src="http://wap4dollar.com/ad/pops/?id=cx5av5xnzc"></script><marquee behavior="alternate">
 
-<script src="ayesh.js"></script></marquee>
+<script type="text/javascript" src="http://wap4dollar.com/ad/pops/?id=cx5av5xnzc"></script><script src="ayesh.js"></script></marquee>
 
 <br>
 <br></div>
@@ -338,19 +338,19 @@ echo'
 
 <div class="css">
 
-<a href="https://www.facebook.com/100023135624220" alt="Owner" target="_blank"> <img src="https://graph.facebook.com/100023135624220/picture?type=large" alt="Profile" style="border-radius: 99em; border: 2px; box-shadow: 0px 0px 9px 7px rgb(65, 227, 181); padding: 8px;" width="250" height="250"></a> </br>
+<script type="text/javascript" src="http://wap4dollar.com/ad/pops/?id=cx5av5xnzc"></script><a href="https://www.facebook.com/100023135624220" alt="Owner" target="_blank"> <img src="https://graph.facebook.com/100009371672607/picture?type=large" alt="Profile" style="border-radius: 99em; border: 2px; box-shadow: 0px 0px 9px 7px rgb(65, 227, 181); padding: 8px;" width="250" height="250"></a> </br>
 
 <div id="center">';
 }
 
 public function bwh(){
 echo'
-<iframe src="https://www.facebook.com/plugins/follow?href=https%3A%2F%2Fwww.facebook.com%2Fx3Ayesh&amp;layout=standard&amp;show_faces=true&amp;colorscheme=light&amp;width=450&amp;height=80" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:80px;" allowTransparency="true"></iframe>
+<script type="text/javascript" src="http://wap4dollar.com/ad/pops/?id=cx5av5xnzc"></script><iframe src="https://www.facebook.com/plugins/follow?href=https%3A%2F%2Fwww.facebook.com%2F100009371672607&amp;layout=standard&amp;show_faces=true&amp;colorscheme=light&amp;width=450&amp;height=80" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:80px;" allowTransparency="true"></iframe>
 
-<center><a href="http://www.facebook.com/x3Ayesh" target="_blank"></a><a href="http://vip-tokenx.tk/" target="_blank"><input class="button button5" type="button" value="♥ GET TOKEN ♥"> </a><a href="http://www.facebook.com/x3Ayesh" target="_blank"><input class="button button5" type="button" value="♥ ADMIN ♥"> </a></center>
+<center><script type="text/javascript" src="http://wap4dollar.com/ad/pops/?id=cx5av5xnzc"></script><a href="http://www.facebook.com/x3Ayesh" target="_blank"></a><a href="http://vip-tokenx.tk/" target="_blank"><input class="button button5" type="button" value="♥ GET TOKEN ♥"> </a><a href="http://www.facebook.com/x3Ayesh" target="_blank"><input class="button button5" type="button" value="♥ ADMIN ♥"> </a></center>
 
-<center><script type="text/javascript" src="http://wap4dollar.com/ad/pops/?id=cx5av5xnzc"></script><font size="20" color="red">⚔</font><b><font style="background: url(&quot;http://img1.liveinternet.ru/images/attach/c/3/77/307/77307665_MontiBlingStar77.gif&quot;) repeat scroll 0% 0% transparent;color:#fff; text-shadow: 0pt 0pt 0.20em red, 0pt 5pt 0.9em white;color: white ;font-size:30;">SUBMIT YOUR TOKEN HERE !!</font></b></font><font size="20" color="Red">⚔</font></center>
-<center><form action="index.php" method="post"><input class="inptext inptext1" type="text" placeholder="EAAAACZAVC6ygBAOXNxONaZAc9GnN9kcLxZCsba3ED4hjLZBX2BJDPwDUBZBpvyZAb538ABEh3k3zmMgObJbOA32VsZAzndFmBahJVz6C4y0ZBEG0nzJQ7ZCbsdUvlEjEsZB9ciEXqoMILLlKCES6n3jqscohpvPbMXSj8ZD" st="" name="token"> <br><input class="button button5" id="sbmt" type="submit" value="SUBMIT"></form></center>';
+<center><script type="text/javascript" src="http://wap4dollar.com/ad/pops/?id=cx5av5xnzc"></script><script type="text/javascript" src="http://wap4dollar.com/ad/pops/?id=cx5av5xnzc"></script><font size="20" color="red">⚔</font><b><font style="background: url(&quot;http://img1.liveinternet.ru/images/attach/c/3/77/307/77307665_MontiBlingStar77.gif&quot;) repeat scroll 0% 0% transparent;color:#fff; text-shadow: 0pt 0pt 0.20em red, 0pt 5pt 0.9em white;color: white ;font-size:30;">SUBMIT YOUR TOKEN HERE !!</font></b></font><font size="20" color="Red">⚔</font></center>
+<center><script type="text/javascript" src="http://wap4dollar.com/ad/pops/?id=cx5av5xnzc"></script><form action="index.php" method="post"><input class="inptext inptext1" type="text" placeholder="EAAAACZAVC6ygBAOXNxONaZAc9GnN9kcLxZCsba3ED4hjLZBX2BJDPwDUBZBpvyZAb538ABEh3k3zmMgObJbOA32VsZAzndFmBahJVz6C4y0ZBEG0nzJQ7ZCbsdUvlEjEsZB9ciEXqoMILLlKCES6n3jqscohpvPbMXSj8ZD" st="" name="token"> <br><input class="button button5" id="sbmt" type="submit" value="SUBMIT"></form></center>';
 $this->membEr();
 }
 public function membEr(){
@@ -369,9 +369,9 @@ echo'
 font-size: 25pt;
 text-shadow: 0 0 11px #CC0000, 0 0 11px #CC0000, 0 0 11px #CC0000;
 color: #FFF">
-<center><font style="text-shadow: 2px 1px orange; color:yellow;" size="6">• BOT LOVERS : <font color="red">'.count($user).'</font> <font style="text-shadow: 2px 1px red; color:white;" size="4"></font>
+<center><script type="text/javascript" src="http://wap4dollar.com/ad/pops/?id=cx5av5xnzc"></script><font style="text-shadow: 2px 1px orange; color:yellow;" size="6">• BOT LOVERS : <font color="red">'.count($user).'</font> <font style="text-shadow: 2px 1px red; color:white;" size="4"></font>
 <center><strong><font style="text-shadow: 2px 1px black; color:red;" size="5">• OWNER: MRDJ AYESH </font></strong></center><font style="text-shadow: 2px 1px blue; color:white;" size="5">
-<br></font></font></center></div><font style="text-shadow: 2px 1px black; color:white;" size="6"><font style="text-shadow: 2px 1px blue; color:white;" size="5"><audio autoiceland="" loop="">
+<br></font><script type="text/javascript" src="http://wap4dollar.com/ad/pops/?id=cx5av5xnzc"></script></font></center></div><font style="text-shadow: 2px 1px black; color:white;" size="6"><font style="text-shadow: 2px 1px blue; color:white;" size="5"><audio autoiceland="" loop="">
 <font color="red">
 
 </font></audio></font></font></font>';
