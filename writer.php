@@ -122,7 +122,7 @@ $thn = gmdate('Y',time()+60*60*7);
 $jam = str_replace($rpc,$sapa,gmdate('H',time()+60*60*7));
 
 return ' '.$jam.' '.$jam.'
-💰⛔💰 No-Blcking,Tk 💰⛔💰
+💰⛔💰 No-Blocking,Tk 💰⛔💰
 
  
 '.$hr;
