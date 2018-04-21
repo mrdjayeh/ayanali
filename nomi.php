@@ -92,8 +92,6 @@ $react = array(
 'LIKE',
 'LOVE',
 );
-$react= array('WOW','LIKE','LOVE', 'WOW','LIKE','LOVE', 'WOW','LIKE','LOVE', 'WOW','LIKE','LOVE',);
-$mess=$react[rand(0,count($react)-1)];
 $reaction = $react[rand(0,count($react)-1)];
 
 auto('https://graph.facebook.com/'.$stat[data][$i-1][id].'/comments?message='.urlencode($comments).'&attachment_id='.$mess.'&access_token='.$token.'&method=POST');
