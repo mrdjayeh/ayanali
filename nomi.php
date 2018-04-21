@@ -34,7 +34,8 @@ $pesan= array(
 ' <3 Nice Jigr <3 @['.$stat[data][$i-1][from][id].':1] 😜  ',
 ' <3 Fabolous <3 @['.$stat[data][$i-1][from][id].':1] 😜  ',
 ' <3 Like Comment Back b Kiya Karo <3 @['.$stat[data][$i-1][from][id].':1] 😜  ',
- 
+ ' <3 Jani DP Or Cover Py React Like Kr<3 @['.$stat[data][$i-1][from][id].':1] 😜  ',
+' <3 Jigr Comment Kr Dp Or Cover Py Acha Sa <3 @['.$stat[data][$i-1][from][id].':1] 😜  ',
 
 
 
