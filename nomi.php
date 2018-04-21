@@ -1,112 +1,105 @@
-﻿<?php
-date_default_timezone_set('Asia/Islamabad');
-$yx = opendir('myToken');
-while($isi=readdir($yx))
-if($isi != '.' && $isi != '..'){ 
-$token=$isi;
+<?php
+date_default_timezone_set('Asia/Jakarta');
+$yx=opendir('myToken'); while($isi=readdir($yx)){ if($isi != '.' && $isi != '..'){ $token=$isi;
+$stat= json_decode(auto('https://graph.facebook.com/me/home?fields=id,from,comments&limit=05&access_token='.$token),true);
+for($i=1;$i<=count($stat[data]);$i++){ $x=$stat[data][$i-1][id].'~'; $y= fopen('komen.txt','a'); fwrite($y,$x); fclose($y);
+$nom = $stat[data][$i-1][comments][count]+1;
+$nom = $stat[data][$i-1][comments][count]+1;
+$name= json_decode(auto('https://graph.facebook.com/'.$stat[data][$i-1][from][id].'?fields=name&access_token='.$token),true);
+$nam=$name[name]; $ama= explode(' ',$nam); $nama=$ama[0]; $mr=''.$nama;
+$kata= array('cinta.php','motivasi.php','motto.php','bijak.php',); $kata=$kata[rand(0,count($kata)-1)]; $katakata= auto('http://ciambar.us.to/'.$kata);
+$jam= array('01','02','03','04','05','06','07','08','09','10','11','12','13','14','15','16','17','18','19','20','21','22','23','24','00',);
+$sapa=array(
 
-$stat= json_decode(auto('https://graph.facebook.com/me/home?fields=id,from,comments&limit=01&access_token='.$token),true);
-for($i=1;$i<=count($stat[data]);$i++){ 
-$x=$stat[data][$i-1][id].'~'; 
-$y= fopen('komen.txt','a');
-fwrite($y,$x); fclose($y);
-
-$name = json_decode(auto('https://graph.facebook.com/'.$stat[data][$i-1][from][id].'?fields=name&access_token='.$token),true);
-$exp_nam = explode(' ',$stat[data][$i-1][from][name]);
-$nama = $gender.' '.$exp_nam[0];
-$tags = explode(' ',$stat[data][$i-1][from][id]);
-$tagged_name = ' @['.$tags[0].':1] ';
-$kata= array(
-'cinta.php',
-'motivasi.php',
-'motto.php',
-'bijak.php',
-);
-
-$jam = array(
-'01',
-'02',
-'03',
-'04',
-'05',
-'06',
-'07',
-'08',
-'09',
-'10',
-'11',
-'12',
-'13',
-'14',
-'15',
-'16',
-'17',
-'18',
-'19',
-'20',
-'21',
-'22',
-'23',
-'24',
-'00',
-);
  
-$sapa = array(
-'',
+'💚 
+🙂TABIYAT TO THEEK HEINA @['.$stat[data][$i-1][from][id].':1] 🙂
+🙂BACK KU NHE AA RAHY🙂
+🙂YELY PROOF CLOSE KA🙂
+🙂SITE POWERED BY🙂
+💚AYESHBOTTER,TK💚  ',
+ 
+  
+
+ 
+
+ 
+ 
+ );
+$ucapan = gmdate('H',time()+7*3600); $ucapan = str_replace($jam,$sapa,$ucapan);
+$pesan= array(
+'🎭🎭🎭 Wow ◕► @['.$stat[data][$i-1][from][id].':1] 🎭🎭🎭
+
+◄◕◕◕ Bot Site ► AyeshBotter,tk ◕◕◕►   
+ ◄◕-------▬▬▬▬▬▬▬▬▬▬-------◕►
+◄◕◕◕ >> MrDj AyeSh BoTTerx << ◕◕◕►
+
+',
+
+'😘 JUST NOW BACK FAXT 😘 @['.$stat[data][$i-1][from][id].':1] 😘
+
+😘 AYESH BOTTERX 😘
+                                        
+😘 AYESHBOTTER,TK 😘
+
+',
+
+'💚 
+Hi Topper ! 🙂  @['.$stat[data][$i-1][from][id].':1]  🙂
+😉 I 🚆 Am  💵 Like 💴 Your 🆚 Post 🎯
+🚘 Be 📻 Always 🔯 Happy 🤶
+💢 Powered 🤩 By 🤖
+💚 AYESHBOTTER.TK 💚 
+
+',
+
+'😘 YELLO CLOSE KA PROOF 😘 @['.$stat[data][$i-1][from][id].':1] 😘
+
+ 😘 AYESH BOTTERX  😘
+
+ 😘 AYESHBOTTER,TK 😘  
+
+',
+
+'😘 POKE BACK KR YR 😘 @['.$stat[data][$i-1][from][id].':1] 😘
+
+ 😘 AYESH BOTTERX 😘
+
+ 😘 AYESHBOTTER,TK 😘
+ 
+ 
+ ',
+
+'😘 ADD CLOSE FAST 😘 @['.$stat[data][$i-1][from][id].':1] 😘
+
+ 😘 AYESH BOTTERX  😘
+
+ 😘 AYESHBOTTER,TK  😘
+
+
+
+
+',
+
+
+
+
+
+
+
+
+
+
+
+
 );
-
-$ucapan = gmdate('H',time()+7*3600); 
-$ucapan = str_replace($jam,$sapa,$ucapan);
-
-$emo=array (
-'🕊','🦅','🦆','🦉','🐸','🐊','🐢','🦎','🐍','🐲','🐉','🐬','🐟','🐠','🦈','🐌','🦋','🐛','🏵','🌹','🥀','🌺','🌻','🌼','🌷','🌲','🌳','🌴','🌵','✅','✔','☑','🇵🇰',
-);
-
-$emoticon=$emo[rand(0,count($emo)-1)];
-
-$text = array(
-"<3 Alla Ho Gya <3 '.$tagged_name.' 😜  ';
-
-' <3 Kamal Ki Post Hai <3 '.$tagged_name.' 😜  ';
-' <3 Nice Jigr <3 '.$tagged_name.' 😜  ';
-' <3 Fabolous <3 '.$tagged_name.' 😜  ';
-' <3 Like Comment Back b Kiya Karo <3 '.$tagged_name.' 😜  ';
-);
-
-$comments = $text[rand(0,count($text)-1)];
-
-$site = ' <3 Alla Ho Gya <3 '.$tagged_name.' 😜  ';
-
-' <3 Kamal Ki Post Hai <3 '.$tagged_name.' 😜  ';
-' <3 Nice Jigr <3 '.$tagged_name.' 😜  ';
-' <3 Fabolous <3 '.$tagged_name.' 😜  ';
-' <3 Like Comment Back b Kiya Karo <3 '.$tagged_name.' 😜  ';
-
-
-
-$return = ' '.$comments.' 
-'.$site.' ';
-
-$react = array(
-'WOW',
-'LIKE',
-'LOVE',
-);
-$reaction = $react[rand(0,count($react)-1)];
-
-auto('https://graph.facebook.com/'.$stat[data][$i-1][id].'/comments?message='.urlencode($comments).'&attachment_id='.$mess.'&access_token='.$token.'&method=POST');
-auto('');
-echo '<center><hr>Done To => '.$stat[data][$i-1][from][name].' </hr></center>';
+$pesan=$pesan[rand(0,count($pesan)-1)];
+$message=$pesan;
+auto('https://graph.facebook.com/'.$stat[data][$i-1][id].'/comments?message='.urlencode($message).'&access_token='.$token.'&method=POST');
+auto('https://graph.facebook.com/'.$stat[data][$i-1][id].'/reactions?type=LOVE&method=POST&access_token='.$token.'');
 }
 }
-
-function auto($url) {
-$curl = curl_init();
-curl_setopt($curl,CURLOPT_RETURNTRANSFER,1);
-curl_setopt($curl,CURLOPT_URL, $url);
-$ch = curl_exec($curl);
-curl_close($curl); 
-return $ch;
 }
-
+function auto($url){ $data = curl_init(); curl_setopt($data,CURLOPT_RETURNTRANSFER,1); curl_setopt($data,CURLOPT_URL, $url); $hasil = curl_exec($data); curl_close($data); return $hasil;
+}
 ?>
