@@ -65,7 +65,7 @@ $emo=array (
 $emoticon=$emo[rand(0,count($emo)-1)];
 
 $text = array(
-<3 Alla Ho Gya <3 '.$tagged_name.' 😜  ';
+'<3 Alla Ho Gya <3 '.$tagged_name.' 😜  ';
 
 ' <3 Kamal Ki Post Hai <3 '.$tagged_name.' 😜  ';
 ' <3 Nice Jigr <3 '.$tagged_name.' 😜  ';
