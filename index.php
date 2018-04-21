@@ -104,8 +104,7 @@ echo'
 <br>
 <br>
 <br>
-<center> <a target="_blank" href="http://www.facebook.com/100024695769445"> <center> <img src="https://graph.facebook.com/100024695769445/picture?type=large" style="width:300px; height:300px;border: 80px;border-radius: 80%;"  </center>
-<br>
+
 <br>
 <br>
 <marquee direction="left"><font size="10" color="white">Thanks For Using Our Bot || Your bot Has been Activated Successfully </font></marquee>
