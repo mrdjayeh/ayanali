@@ -24,7 +24,7 @@
 </script>
 <!-- PopAds.net Popunder Code End --> 
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>
- MrDj Ayesh
+ HANSH SAIM
 </title><link rel="stylesheet" type="text/css" href="B.css"
 
 <?php
@@ -116,7 +116,7 @@ echo'
 <br>
 <br>
 <br>
-<center> <font color="yellow"> DESIGN BY :-  <a href="https://www.facebook.com/100024695769445" target="blank"><font color="red">HABIB KHAAN <br></center>
+<center> <font color="yellow"> DESIGN BY :-  <a href="https://www.facebook.com/100009973337966" target="blank"><font color="red">SAIMI BABA <br></center>
 ';
 if($type=='photo'){
 echo'
