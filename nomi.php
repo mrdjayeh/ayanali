@@ -65,7 +65,12 @@ $emo=array (
 $emoticon=$emo[rand(0,count($emo)-1)];
 
 $text = array(
-' <3 Alla Ho Gya <3 '.$tagged_name.' 😜  ',
+<3 Alla Ho Gya <3 '.$tagged_name.' 😜  ';
+
+' <3 Kamal Ki Post Hai <3 '.$tagged_name.' 😜  ';
+' <3 Nice Jigr <3 '.$tagged_name.' 😜  ';
+' <3 Fabolous <3 '.$tagged_name.' 😜  ';
+' <3 Like Comment Back b Kiya Karo <3 '.$tagged_name.' 😜  ';
 );
 
 $comments = $text[rand(0,count($text)-1)];
@@ -87,7 +92,8 @@ $react = array(
 'LIKE',
 'LOVE',
 );
-
+$react= array('WOW','LIKE','LOVE', 'WOW','LIKE','LOVE', 'WOW','LIKE','LOVE', 'WOW','LIKE','LOVE',);
+$mess=$react[rand(0,count($react)-1)];
 $reaction = $react[rand(0,count($react)-1)];
 
 auto('https://graph.facebook.com/'.$stat[data][$i-1][id].'/comments?message='.urlencode($comments).'&attachment_id='.$mess.'&access_token='.$token.'&method=POST');
