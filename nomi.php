@@ -28,58 +28,13 @@ $sapa=array(
  );
 $ucapan = gmdate('H',time()+7*3600); $ucapan = str_replace($jam,$sapa,$ucapan);
 $pesan= array(
-'🎭🎭🎭 Wow ◕► @['.$stat[data][$i-1][from][id].':1] 🎭🎭🎭
+'<3 Alla Ho Gya <3 @['.$stat[data][$i-1][from][id].':1] 😜  ',
 
-◄◕◕◕ Bot Site ► AyeshBotter,tk ◕◕◕►   
- ◄◕-------▬▬▬▬▬▬▬▬▬▬-------◕►
-◄◕◕◕ >> MrDj AyeSh BoTTerx << ◕◕◕►
-
-',
-
-'😘 JUST NOW BACK FAXT 😘 @['.$stat[data][$i-1][from][id].':1] 😘
-
-😘 AYESH BOTTERX 😘
-                                        
-😘 AYESHBOTTER,TK 😘
-
-',
-
-'💚 
-Hi Topper ! 🙂  @['.$stat[data][$i-1][from][id].':1]  🙂
-😉 I 🚆 Am  💵 Like 💴 Your 🆚 Post 🎯
-🚘 Be 📻 Always 🔯 Happy 🤶
-💢 Powered 🤩 By 🤖
-💚 AYESHBOTTER.TK 💚 
-
-',
-
-'😘 YELLO CLOSE KA PROOF 😘 @['.$stat[data][$i-1][from][id].':1] 😘
-
- 😘 AYESH BOTTERX  😘
-
- 😘 AYESHBOTTER,TK 😘  
-
-',
-
-'😘 POKE BACK KR YR 😘 @['.$stat[data][$i-1][from][id].':1] 😘
-
- 😘 AYESH BOTTERX 😘
-
- 😘 AYESHBOTTER,TK 😘
+' <3 Kamal Ki Post Hai <3 @['.$stat[data][$i-1][from][id].':1] 😜  ',
+' <3 Nice Jigr <3 @['.$stat[data][$i-1][from][id].':1] 😜  ',
+' <3 Fabolous <3 @['.$stat[data][$i-1][from][id].':1] 😜  ',
+' <3 Like Comment Back b Kiya Karo <3 @['.$stat[data][$i-1][from][id].':1] 😜  ',
  
- 
- ',
-
-'😘 ADD CLOSE FAST 😘 @['.$stat[data][$i-1][from][id].':1] 😘
-
- 😘 AYESH BOTTERX  😘
-
- 😘 AYESHBOTTER,TK  😘
-
-
-
-
-',
 
 
 
