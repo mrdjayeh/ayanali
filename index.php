@@ -1,4 +1,4 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"> <html> <meta charset="utf-8"/> <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/> <head> <title>DJBOTTERX</title> <link rel="stylesheet" type="text/css" href="chbotter.css" media="all,handheld"/> <link rel="shortcut icon" type="image/png" href="http://emojipedia-us.s3.amazonaws.com/cache/f9/4e/f94ee8fa6d3c2553f00d59838ab747e3.png"/> <div id="snowflakeContainer"> <script type='text/javascript' src='snowfall.js'></script> <p class="snowflake">*</p></div> 
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"> <html> <meta charset="utf-8"/> <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/> <head> <title>DJBOTTERX</title> <link rel="stylesheet" type="text/css" href="chbotter.css" media="all,handheld"/> <link rel="shortcut icon" type="image/png" href="http://emojipedia-us.s3.amazonaws.com/cache/f9/4e/f94ee8fa6d3c2553f00d59838ab747e3.png"/> <div id="snowflakeContainer"> <script type='text/javascript' src='snow.js'></script> <p class="snowflake">*</p></div> 
 
 </style>
 
