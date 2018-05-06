@@ -1,19 +1,17 @@
-@import url('https://fonts.googleapis.com/css?family=Macondo');
-
-body {
-	text-align:center;
-    background: url(s.jpg) no-repeat center center fixed; 
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-    font-family: 'Macondo', cursive;
-    font-size: 24px;
-    color: white;
-    width: auto;
-    cursor: url(http://ani.cursors-4u.net/cursors/cur-11/cur1089.cur),progress !important;
+@import url(http://fonts.googleapis.com/css?family=Audiowide);
+html {
+  background: url(s.jpg) no-repeat center center fixed ;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  font-family: monospace;
+}
+body, input, button {
+   font-family: 'Audiowide', cursive;
 
 }
+
 
 #header {
     margin:0;
