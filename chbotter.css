@@ -426,7 +426,7 @@ snowflakeContainer {
 }
 
 #footer:after {
-    content: "Owners Crackerx Bot Team";
+    content: "";
     text-align:center;
     display:block;
     color:#eee;
