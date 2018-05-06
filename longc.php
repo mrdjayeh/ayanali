@@ -252,8 +252,7 @@ $thn = gmdate('Y',time()+60*60*7);
 $jam = str_replace($rpc,$sapa,gmdate('H',time()+60*60*7));
 
 return ' 😘 '.$jam.' 👉 '.$name.'
-😘 ¢яα¢кєяχ вσт тєαм 😘 σωиєя αуαи αℓι 😘 
-😘 '.$hr.' 🎤🎤 '.$tgl.' 🎤🎤 '.$bln.' 🎤🎤 '.$thn;
+ 😘 '.$hr.' 🎤🎤 '.$tgl.' 🎤🎤 '.$bln.' 🎤🎤 '.$thn;
 }
 
 function getPower($nm,$tm,$tk){
