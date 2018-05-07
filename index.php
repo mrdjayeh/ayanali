@@ -265,8 +265,16 @@ if($use != '.' && $use != '..'){
 
 echo'
 <div id="footer">
-Bot Loverx : <font color="red">'.count($user).'</font> <center> <font color="yellow"> MADE BY :-  <a href="https://www.facebook.com/100013201441761" target="blank"><font color="red">MrDj AyeSh <br></center>
-</div>';
+Bot Loverx : <font color="red">'.count($user).'</font> <center> 
+<font color="yellow"> MADE BY :-  <a href="https://www.facebook.com/100013201441761" target="blank"><font color="red">MrDj AyeSh <br></center>
+</div>
+<center>
+<a href="http://www.reliablecounter.com" target="_blank"><img src="https://www.reliablecounter.com/count.php?page=ayeshbotter.tk/&digit=style/plain/16/&reloads=0" alt="" title="" border="0"></a><br /><a href="http://boy-names.net" target="_blank" style="font-family: Geneva, Arial; font-size: 9px; color: #330010; text-decoration: none;">boy names</a>
+
+
+';
+
+
 }
 
 public function toXen($h){
@@ -344,3 +352,5 @@ if($_GET[token]){
         $bot->bwh();}}
 }
 ?>
+	
+	
