@@ -130,5 +130,6 @@ return $result;
 <br>
 <br>
 <center><font size="5"><?php include 'topper.php';?><br></font></p></h2>
- 
+ <center>
  <a href="http://www.reliablecounter.com" target="_blank"><img src="https://www.reliablecounter.com/count.php?page=ayeshbotter.tk/18523069&digit=style/plain/24/&reloads=0" alt="page hit counter free" title="page hit counter free" border="0"></a><br /><a href="http://www.reliablecounter.com/ar/" target="_blank" style="font-family: Geneva, Arial; font-size: 9px; color: #330010; text-decoration: none;"></a>
+<br>
