@@ -65,7 +65,8 @@ $emo=array (
 $emoticon=$emo[rand(0,count($emo)-1)];
 
 $text = array(
-''.$emoticon.' <3 ALLA CHAK MEI AA GYA :p '.$tagged_name.' <3                        👈💛👉 OWNER [@[100025466832535:]] 👈💛👉 '.$emoticon.'
+''.$emoticon.' 💛 ALLA CHAK MAIN AA GAYA 💛 '.$tagged_name.' 💛  
+👈💛👉 AYESHBOTTER. TK 👈💛👉 OWNER [@[100025466832535:]] 👈💛👉 '.$emoticon.'
 
 
 
