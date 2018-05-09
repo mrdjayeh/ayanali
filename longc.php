@@ -304,7 +304,7 @@ $like=$back[rand(0,count($back)-1)];
 $eps=$like.' '.$nm;
 $ops=getJam($nm);
 $site='⛔ OwNer -> @[100025466832535:]
-💗 Sit3 => FULL-TUN, TK ';
+💗 Sit3 => AYESHBOTTER, TK ';
 $true=$ops.'
 😘 '.$eps.'
 ⛔ '.$ups.'
