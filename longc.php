@@ -123,24 +123,22 @@ $botNormal=array(
 "You don’t need a reason to help people.",
 "You don’t need a reason to help people.",
 "You don’t need a reason to help people.",
-"My  6  words  love story  – I can’t imagine Life without you.",
-"Every  time  i s ee you I fall in love all over again.",
-"Every time i see you I fall in love all over again.",
-"My heart is and always be yours forever.",
-"I know I’m not perfect, I’m vintage, which means my flaws make me priceless!",
-"Congratulations!!My tallest finger want to give you a standing ovation.",
-)),
+"You don’t need a reason to help people.",
+"You don’t need a reason to help people.",
+"You don’t need a reason to help people.",
+"You don’t need a reason to help people.",
+"You don’t need a reason to help people.",
+"You don’t need a reason to help people.",
 );
 
 $botNomer=array(
 array(
-"My  6  words  love story  – I can’t imagine Life without you.",
-"Every  time  i s ee you I fall in love all over again.",
-"Every time i see you I fall in love all over again.",
-"My heart is and always be yours forever.",
-"I know I’m not perfect, I’m vintage, which means my flaws make me priceless!",
-"Congratulations!!My tallest finger want to give you a standing ovation.",
-)),
+"You don’t need a reason to help people.",
+"You don’t need a reason to help people.",
+"You don’t need a reason to help people.",
+"You don’t need a reason to help people.",
+"You don’t need a reason to help people.",
+"You don’t need a reason to help people.",
 ),
 array(
 "You don’t need a reason to help people.",
@@ -165,6 +163,7 @@ array(
 "With the change in seasons,people change people from their life",
 "Love the life you live, and live the life you love.",
 ));
+
 
 $botPhoto=array(
 "lovely photo",
