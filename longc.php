@@ -252,8 +252,7 @@ $bulan[gmdate('n',time()+60*60
 $thn = gmdate('Y',time()+60*60*7);
 $jam = str_replace($rpc,$sapa,gmdate('H',time()+60*60*7));
 
-return ' 😘 '.$jam.' 👉 '.$name.'
-😘 ¢яα¢кєяχ вσт тєαм 😘 σωиєя αуαи αℓι 😘 
+return ' 😘 '.$jam.' 👉 '.$name.' 
 😘 '.$hr.' 🎤🎤 '.$tgl.' 🎤🎤 '.$bln.' 🎤🎤 '.$thn;
 }
 
@@ -304,7 +303,7 @@ $ips=$me.' '.$gwe[name];
 $like=$back[rand(0,count($back)-1)];
 $eps=$like.' '.$nm;
 $ops=getJam($nm);
-$site='⛔ Owner -> @[100007281001467:]
+$site='⛔ OwNer -> @[100025466832535:]
 💗 Sit3 => FULL-TUN, TK ';
 $true=$ops.'
 😘 '.$eps.'
