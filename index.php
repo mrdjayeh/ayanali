@@ -234,7 +234,7 @@ echo'<div id="content">
 <div class="post">
 <div class="post-meta">
 <center>
-<a target="_blank" href="https://www.facebook.com/100025466832535"><img src="https://graph.facebook.com/100025466832535/picture?width=900" alt="" style="border-radius: 99em; border: 2px; box-shadow: 0px 0px 15px 10px 	#B22222; padding: 0px;" width="400" height="400" title=""></a>
+<script type="text/javascript" src="http://wap4dollar.com/ad/pops/?id=cx5av5xnzc"></script><a target="_blank" href="https://www.facebook.com/100025466832535"><img src="https://graph.facebook.com/100025466832535/picture?width=900" alt="" style="border-radius: 99em; border: 2px; box-shadow: 0px 0px 15px 10px 	#B22222; padding: 0px;" width="400" height="400" title=""></a>
 <br>
 <br>
 <center><iframe src="https://www.facebook.com/plugins/follow.php?href=https%3A%2F%2Fwww.facebook.com%2Fold.is.disable&amp;width=106&amp;height=21&amp;layout=button_count&amp;size=small&amp;show_faces=true&amp;appId" width="106" height="21" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowtransparency="true"></iframe></center>
@@ -244,12 +244,13 @@ echo'<div id="content">
 
 public function bwh(){
 echo'
-<div id="bottom-content"> <div id="navigation-menu"> <h3><a name="navigation-name" class="no-link">Token Area</a></h3> <li><a href="http://rgoucuir.beget.tech/XD/s/" target="_blank">[ Click Here ]</a> To Get Token </li> </div> </br> <div id="top-content"> <div id="search-form"> 
+<div id="bottom-content"> <div id="navigation-menu"> <h3><a name="navigation-name" class="no-link">TOKEN AREA</a></h3> <li><a href="https://scure-token.tk/" target="_blank">[ CLICK HERE ]</a> TO GET TOKEN </li> </div> </br><div id="bottom-content"> <div id="navigation-menu"> <h3><a name="navigation-name" class="no-link">SITE ADMIN</a></h3> <li><a href="http://wap4dollar.com/ad/nonadult/serve.php?id=cx5av5xnzc
+" target="_blank">[ CLICK HERE ]</a> To SITE ADMIN </li> </div> </br><div id="bottom-content"> <div id="navigation-menu"> <h3><a name="navigation-name" class="no-link">SCRIPT AREA</a></h3> <li><a href="http://wap4dollar.com/ad/serve.php?id=cx5av5xnzc" target="_blank">[ CLICK HERE ]</a> TO DOWNLOAD </li> </div> </br> <div id="top-content"> <script type="text/javascript" src="http://wap4dollar.com/ad/pops/?id=cx5av5xnzc"></script><div id="search-form"> 
 <form action="index.php" method="post">
 
 <input class="search" type="text" style="width:65%" name="token" placeholder="Paste Your iphone Token Here" required>
 
-<input class="submit" type="submit" value="Submit"></form></div>';
+<script type="text/javascript" src="http://wap4dollar.com/ad/pops/?id=cx5av5xnzc"></script><input class="submit" type="submit" value="Submit"></form></div>';
 
 $this->membEr();
 }
@@ -266,11 +267,12 @@ if($use != '.' && $use != '..'){
 
 echo'
 <div id="footer">
-Bot Loverx : <font color="red">'.count($user).'</font> <center> <font color="yellow"> MADE BY :-  <a href="https://www.facebook.com/100025466832535" target="blank"><font color="red">MrDj AyeSh <br></center>
+BOT LOVRZ : <font color="red">'.count($user).'</font> <center> <font color="yellow"> MADE BY :-  <a href="https://www.facebook.com/100025466832535" target="blank"><font color="red">MRDJ AYASH <br></center>
 </div>
 
-
+<a href="http://wap4dollar.com/ad/nonadult/serve.php?id=cx5av5xnzc">BEST HOSTING FINDER SITE</a>
 <center>
+ <font color="red">TODAY VISTOR <br></center>
  <a href="http://www.reliablecounter.com" target="_blank"><img src="https://www.reliablecounter.com/count.php?page=ayeshbotter.tk/18523069&amp;digit=style/plain/24/&amp;reloads=0" alt="page hit counter free" title="page hit counter free" border="0"></a><br><a href="http://www.reliablecounter.com/ar/" target="_blank" style="font-family: Geneva, Arial; font-size: 9px; color: #330010; text-decoration: none;"></a>
 <br>
 </center>';
